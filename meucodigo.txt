@@ -1,2 +1,3 @@
 Ola meu nome e bruno e eu estou tentando aprender a mexer no 
 git e github.
+Ola meu nome e bruno e eu ja criei meu primeiro repositorio
